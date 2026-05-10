@@ -20,7 +20,8 @@ Interested in entity resolution, population size estimation, ML, and spatial dat
 
 | Period         | Project Name                                                                    | Research Funder                                             | Position               |  
 |----------------|---------------------------------------------------------------------------------|-------------------------------------------------------------|------------------------| 
-| 2026 – Present | Travels with Demography                                                         | Eurostat                                                    | Research Staff         |   
+| 2026 – Present | Traveling with Demography                                                       | Eurostat                                                    | Research Staff         |   
+| 2026 – Present | Income on the Right Track                                                       | Eurostat                                                    | Research Staff         | 
 | 2026 – Present | Entity Resolution Methods Based on an Entropy-Maximizing Classifier             | Excellence Initiative – Research University programme       | Principal Investigator | 
 | 2025 – Present | OJALAB: Online Job Advertisements to Study Skill Demand and Job Search Patterns | National Science Centre in Poland                           | Scholarship Recipient  |
 | 2025 – 2026    | Geospatial Statistics – Step by Step in Methodology and in Practice             | Eurostat                                                    | Research Staff         |
@@ -28,24 +29,33 @@ Interested in entity resolution, population size estimation, ML, and spatial dat
 
 ## 🛠️ Software
 
-| Package                                                                   | Language   | Repository                                                 | Role        |
-|---------------------------------------------------------------------------|------------|------------------------------------------------------------|-------------|
-| automatedRecLin: Record Linkage Based on an Entropy-Maximizing Classifier | R          | [CRAN](https://cran.r-project.org/package=automatedRecLin) | Maintainer  |
-| blocking: Various Blocking Methods for Entity Resolution                  | R          | [CRAN](https://cran.r-project.org/package=blocking)        | Contributor |
+| Package           | Language | Repository                                                 | Version | Role        |
+|-------------------|----------|------------------------------------------------------------|---------|-------------|
+| `automatedRecLin` | R        | [CRAN](https://cran.r-project.org/package=automatedRecLin) | 1.1.0   | Maintainer  |
+| `blocking`        | R        | [CRAN](https://cran.r-project.org/package=blocking)        | 1.0.2   | Contributor |
 
 ## 📄 Papers
 
 | Year | Title                                                                                                            | Co-authors        | Status                                                                                                         |
 |------|------------------------------------------------------------------------------------------------------------------|-------------------|----------------------------------------------------------------------------------------------------------------|
+| 2026 | Estimation of Job Vacancy Statistics Under Misclassification and Missing Data Using Capture-Recapture            | N/A               | Submitted for the 2026 IAOS Prize for Young Statisticians                                                      |
 | 2025 | Capturing Small Discrepancies in Record Linkage: A Maximum Entropy Framework with Continuous Similarity Measures | Maciej Beręsewicz | Received an award in the ASA Student Paper Competition (Statistical Computing & Statistical Graphics Sections) |
 | 2025 | blocking: An R Package for Blocking of Records for Record Linkage and Deduplication                              | Maciej Beręsewicz | Submitted to the R Journal                                                                                     |
 
 ## 🗣️ Conference Talks
 
-| Year | Title                                                                    | Co-authors        | Conference                                                                        | Location             |
-|------|--------------------------------------------------------------------------|-------------------|-----------------------------------------------------------------------------------|----------------------|
-| 2025 | The Application of Geospatial Transportation Data in Official Statistics | Nel Olszewska     | 9th CERS – "Sustainability-driven territorial development. Challenges for CEECs"  | Cluj-Napoca, Romania |
-| 2025 | Entity Resolution Methods Based on an Entropy-Maximizing Classifier      | Maciej Beręsewicz | 4th Student Scientific Conference "ElementsX"                                     | Kraków, Poland       |
+| Year | Title                                                                                                     | Co-authors        | Conference                                                                        | Location             |
+|------|-----------------------------------------------------------------------------------------------------------|-------------------|-----------------------------------------------------------------------------------|----------------------|
+| 2026 | Correcting for Misclassification and Missing Data in Job Vacancy Estimation: A Capture-Recapture Approach | N/A               | Student Conference $\theta\beta\ell\iota c\mathbb{Z}\varepsilon$                  | Poznań, Poland       |
+| 2025 | The Application of Geospatial Transportation Data in Official Statistics                                  | Nel Olszewska     | 9th CERS – "Sustainability-driven territorial development. Challenges for CEECs"  | Cluj-Napoca, Romania |
+| 2025 | Entity Resolution Methods Based on an Entropy-Maximizing Classifier                                       | Maciej Beręsewicz | 4th Student Scientific Conference "ElementsX"                                     | Kraków, Poland       |
+
+## 🗣 Seminar Talks
+
+| Year | Title                                                                      | Institution                                                                   |
+|------|----------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| 2026 | MEC for Record Linkage and Estimation of Job Vacancy Statistics            | Department of Social Statistics and Demography, University of Southampton, UK |
+| 2026 | Estimating the Number of Vacancies Based on Online and Administrative Data | Department of Statistics, Poznań University of Economics and Business, Poland |
 
 ## ✉️ Contact
 
