@@ -31,7 +31,7 @@ Interested in entity resolution, population size estimation, ML, and spatial dat
 
 | Package           | Language | Repository                                                 | Version | Role        |
 |-------------------|----------|------------------------------------------------------------|---------|-------------|
-| `automatedRecLin` | R        | [CRAN](https://cran.r-project.org/package=automatedRecLin) | 1.1.0   | Maintainer  |
+| `automatedRecLin` | R        | [CRAN](https://cran.r-project.org/package=automatedRecLin) | 1.1.1   | Maintainer  |
 | `blocking`        | R        | [CRAN](https://cran.r-project.org/package=blocking)        | 1.0.2   | Contributor |
 
 ## 📄 Papers
@@ -40,12 +40,13 @@ Interested in entity resolution, population size estimation, ML, and spatial dat
 |------|------------------------------------------------------------------------------------------------------------------|-------------------|----------------------------------------------------------------------------------------------------------------|
 | 2026 | Estimation of Job Vacancy Statistics Under Misclassification and Missing Data Using Capture-Recapture            | N/A               | Submitted for the 2026 IAOS Prize for Young Statisticians                                                      |
 | 2025 | Capturing Small Discrepancies in Record Linkage: A Maximum Entropy Framework with Continuous Similarity Measures | Maciej Beręsewicz | Received an award in the ASA Student Paper Competition (Statistical Computing & Statistical Graphics Sections) |
-| 2025 | blocking: An R Package for Blocking of Records for Record Linkage and Deduplication                              | Maciej Beręsewicz | Submitted to the R Journal                                                                                     |
+| 2025 | blocking: An R Package for Blocking of Records for Record Linkage and Deduplication                              | Maciej Beręsewicz | Accepted to the R Journal                                                                                     |
 
 ## 🗣️ Conference Talks
 
 | Year | Title                                                                                                     | Co-authors        | Conference                                                                        | Location             |
 |------|-----------------------------------------------------------------------------------------------------------|-------------------|-----------------------------------------------------------------------------------|----------------------|
+| 2026 | The Competitiveness of Poland's Digital Export                                                            | Ewa Mińska-Struzik | 36th ITFA Annual Conference | Poznań, Poland |
 | 2026 | Correcting for Misclassification and Missing Data in Job Vacancy Estimation: A Capture-Recapture Approach | N/A               | Student Conference $\theta\beta\ell\iota c\mathbb{Z}\varepsilon$                  | Poznań, Poland       |
 | 2025 | The Application of Geospatial Transportation Data in Official Statistics                                  | Nel Olszewska     | 9th CERS – "Sustainability-driven territorial development. Challenges for CEECs"  | Cluj-Napoca, Romania |
 | 2025 | Entity Resolution Methods Based on an Entropy-Maximizing Classifier                                       | Maciej Beręsewicz | 4th Student Scientific Conference "ElementsX"                                     | Kraków, Poland       |
