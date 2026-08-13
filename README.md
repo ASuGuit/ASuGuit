@@ -44,14 +44,15 @@ Interested in entity resolution, population size estimation, ML, and spatial dat
 
 ## 🗣️ Conference Talks
 
-| Year | Title                                                                                                     | Co-authors         | Conference                                                                        | Location                                |
-|------|-----------------------------------------------------------------------------------------------------------|--------------------|-----------------------------------------------------------------------------------|-----------------------------------------|
-| 2026 | `automatedRecLin`: Record Linkage Based on an Entropy-Maximizing Classifier                               | Maciej Beręsewicz  | useR! Conference                                                                  | Warsaw, Poland                          |
-| 2026 | Urban Spatial Accessibility                                                                               | Nel Olszewska      | City Statistics Expert Group Meeting and SCORUS Conference                        | Brussels, Belgium (remote presentation) |
-| 2026 | The Competitiveness of Poland's Digital Export                                                            | Ewa Mińska-Struzik | 36th ITFA Annual Conference                                                       | Poznań, Poland                          |
-| 2026 | Correcting for Misclassification and Missing Data in Job Vacancy Estimation: A Capture-Recapture Approach | N/A                | Student Conference $\theta\beta\ell\iota c\mathbb{Z}\varepsilon$                  | Poznań, Poland                          |
-| 2025 | The Application of Geospatial Transportation Data in Official Statistics                                  | Nel Olszewska      | 9th CERS – "Sustainability-driven territorial development. Challenges for CEECs"  | Cluj-Napoca, Romania                    |
-| 2025 | Entity Resolution Methods Based on an Entropy-Maximizing Classifier                                       | Maciej Beręsewicz  | 4th Student Scientific Conference "ElementsX"                                     | Kraków, Poland                          |
+| Year | Title                                                                                                            | Co-authors         | Conference                                                                        | Location                                |
+|------|------------------------------------------------------------------------------------------------------------------|--------------------|-----------------------------------------------------------------------------------|-----------------------------------------|
+| 2026 | Capturing Small Discrepancies in Record Linkage: A Maximum Entropy Framework with Continuous Similarity Measures | Maciej Beręsewicz  | Joint Statistical Meetings                                                        | Boston, Massachusetts, USA              |                
+| 2026 | `automatedRecLin`: Record Linkage Based on an Entropy-Maximizing Classifier                                      | Maciej Beręsewicz  | useR! Conference                                                                  | Warsaw, Poland                          |
+| 2026 | Urban Spatial Accessibility                                                                                      | Nel Olszewska      | City Statistics Expert Group Meeting and SCORUS Conference                        | Brussels, Belgium (remote presentation) |
+| 2026 | The Competitiveness of Poland's Digital Export                                                                   | Ewa Mińska-Struzik | 36th ITFA Annual Conference                                                       | Poznań, Poland                          |
+| 2026 | Correcting for Misclassification and Missing Data in Job Vacancy Estimation: A Capture-Recapture Approach        | N/A                | Student Conference $\theta\beta\ell\iota c\mathbb{Z}\varepsilon$                  | Poznań, Poland                          |
+| 2025 | The Application of Geospatial Transportation Data in Official Statistics                                         | Nel Olszewska      | 9th CERS – "Sustainability-driven territorial development. Challenges for CEECs"  | Cluj-Napoca, Romania                    |
+| 2025 | Entity Resolution Methods Based on an Entropy-Maximizing Classifier                                              | Maciej Beręsewicz  | 4th Student Scientific Conference "ElementsX"                                     | Kraków, Poland                          |
 
 ## 🗣 Seminar Talks
 
